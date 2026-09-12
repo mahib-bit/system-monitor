@@ -2,12 +2,12 @@
        SYSTEM PERFORMANCE REPORT
 ========================================
 
-Total Monitoring Records : 15
+Total Monitoring Records : 17
 
-Average CPU Usage  : 25.39%
-Average RAM Usage  : 25.05%
+Average CPU Usage  : 3.81%
+Average RAM Usage  : 26.80%
 Average Disk Usage : 45.00%
 
 ========================================
-Report generated on: Sat Sep 12 02:58:52 AM +06 2026
+Report generated on: Sat Sep 12 07:28:23 PM +06 2026
 ========================================
